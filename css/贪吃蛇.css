@@ -1,0 +1,36 @@
+.beijing{
+    background: url(../img/未标题-1.jpg) no-repeat;
+    width: 1328px;
+    height: 881px;
+    padding: 40px 65px;
+    margin: 0px auto;
+}
+
+.hezi{
+    width: 1200px;
+    height: 800px;
+    background: url(../img/timg1.jpg) no-repeat ; 
+    position: relative;
+    
+}
+
+#shiwu{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+
+}
+
+#tou{
+    display: inline-block;
+}
+
+#zdk div{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
